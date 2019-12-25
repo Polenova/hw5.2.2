@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">hw5.2.2</string>
+    <string name="registration">registration</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="empty_login">введите логин</string>
+    <string name="empty_password">введите пароль</string>
+    <string name="error_info">не верно введены данные, введите логин и пароль</string>
+    <string name="saved_info_internal">данные сохранены во внутреннее хранилище</string>
+    <string name="saved_info_external">данные сохранены во внешнем файле</string>
+    <string name="empty_info">нет данных, требуется регистрация</string>
+    <string name="ok_info">данные введены верно</string>
+    <string name="save_file">сохранить во внешний файл</string>
+</resources>
